@@ -37,7 +37,7 @@ int main() {
         maxMarks = max(maxMarks, students[i].marks);
     }
 
-    cout << "\n📊 Grade Report:\n";
+    cout << "\n Grade Report:\n";
     for (const auto &s : students) {
         cout << s.name << " - Marks: " << s.marks << " - Grade: " << getGrade(s.marks) << endl;
     }
