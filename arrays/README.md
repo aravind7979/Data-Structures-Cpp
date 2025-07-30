@@ -21,6 +21,6 @@ Practicing C++ Data Structures with examples, problems, and real-world mini-proj
 data-structures/
 └── arrays/
     ├── examples/
-    ├── problems/
     ├── mini_project/
+    ├── problems/
     └── README.md
